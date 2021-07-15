@@ -17,6 +17,7 @@ public class Calculadora {
     public Calculadora(float num1, float num2) {
         this.num1 = num1;
         this.num2 = num2;
+        System.out.println("HOLA RATA");
     }
 
     public Calculadora() {
