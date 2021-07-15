@@ -18,6 +18,7 @@ public class Calculadora {
         this.num1 = num1;
         this.num2 = num2;
         System.out.println("HOLA RATA");
+        System.out.println("Perro asqueroso");
     }
 
     public Calculadora() {
